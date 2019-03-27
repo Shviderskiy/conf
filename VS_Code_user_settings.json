@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "python.linting.enabled": false,
+    "python.jediEnabled": false,
+    "files.trimTrailingWhitespace": true,
+    "explorer.autoReveal": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.renderControlCharacters": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0
+}
